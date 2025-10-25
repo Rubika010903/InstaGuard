@@ -1,0 +1,5 @@
+{
+  "name": "InstaGuard: Forgery Detection",
+  "description": "A simulated social media app demonstrating a robust system for detecting, analyzing, and recovering tampered images using AI-powered analysis.",
+  "requestFramePermissions": []
+}
